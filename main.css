@@ -1,0 +1,13 @@
+:root {
+    --primaryColor: #4D5AE5;
+    --brandColor: #2E2F42;
+}
+p {
+    color: var(--primaryColor)
+}
+h2 h3 h1  {
+    color: var(--brandColor) !important;
+}
+.title {
+    font-style: inherit;
+}
